@@ -1,0 +1,29 @@
+#title{color:blue;
+	position:absolute;
+	width:300px;
+	top:20px;
+	left:20px;
+	padding:10px;
+	background-color: powderblue;
+}
+.list{
+	position:absolute;
+	right:10%;
+	top:5%;
+	width:100px;
+	height:50px;
+	background-color: yellow;
+
+}
+#first{
+	background-color: pink;
+	margin-top:10px;
+	margin-left:10px;
+	width:50px;
+	height:30px;
+	padding-top:10px;
+	padding-left: 10px;
+}
+body{
+
+}
